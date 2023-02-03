@@ -6,7 +6,6 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 - [ ] GOPL
 - [ ] Concurrency in Go
 - [ ] Effective Go
-- [ ] Educative - Mastering concurrency in go (optional)
 
 ### Online
 - [ ] Web Dev with Google's Go (udemy)
@@ -15,6 +14,7 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 - [ ] TECH SCHOOL Backend Master-Class (YouTube)
 - [ ] Ardan labs - Go Scheduler article
 - [ ] Ardans labs - GC article
+- [ ] Educative - Mastering concurrency in go (optional)
 
 ## DB
 ### Books
