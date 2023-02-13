@@ -58,7 +58,6 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 - [ ] TECH SCHOOL Backend Master-Class (YouTube)
 - [ ] Ardan labs - Go Scheduler article
 - [ ] Ardans labs - GC article
-- [ ] Educative - Mastering concurrency in go (optional)
 
 ## DB
 ### Books
