@@ -47,9 +47,22 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 
 
 ### Books
-- [ ] GOPL
-- [ ] Concurrency in Go
-- [ ] Effective Go
+#### GOPL
+- [x] 1.Tutorial
+- [x] 2. Program Structure
+- [x] 3. Basic Data Types
+- [x] 4. Composition Types
+- [x] 5. Functions
+- [x] 6. Methods
+- [ ] 7. Interfaces
+- [ ] 8. Goroutines and Channels
+- [ ] 9. Concurrency with Shared Variables
+- [ ] 10. Packages and the Go Tool
+- [ ] 11. Testing
+- [ ] 12. Reflection
+- [ ] 13. Low-Level Programming
+#### Concurrency in Go
+#### Effective Go
 
 ### Online
 - [ ] Web Dev with Google's Go (udemy)
