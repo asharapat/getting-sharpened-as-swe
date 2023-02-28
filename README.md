@@ -65,7 +65,7 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 #### Effective Go
 
 ### Online
-- [ ] Web Dev with Google's Go (udemy)
+- [ ] Web Dev with Google's Go (udemy, optional)
 - [ ] Working with Microservices (udemy)
 - [ ] gRPC (udemy)
 - [ ] TECH SCHOOL Backend Master-Class (YouTube)
