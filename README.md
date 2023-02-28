@@ -6,8 +6,8 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 ### Course from work
 
 #### Week #1 Why Go?
-- [ ] Intro to Golang
-- [ ] Interfaces in Golang
+- [x] Intro to Golang
+- [x] Interfaces in Golang
 - [ ] Creating project in Golang
 
 #### Week #2 Concurrent programming
