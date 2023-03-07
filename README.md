@@ -8,7 +8,6 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 #### Week #1 Why Go?
 - [x] Intro to Golang
 - [x] Interfaces in Golang
-- [ ] Creating project in Golang
 
 #### Week #2 Concurrent programming
 - [ ] Basics: concurrency & parallelism
@@ -54,7 +53,7 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 - [x] 4. Composition Types
 - [x] 5. Functions
 - [x] 6. Methods
-- [ ] 7. Interfaces
+- [x] 7. Interfaces
 - [ ] 8. Goroutines and Channels
 - [ ] 9. Concurrency with Shared Variables
 - [ ] 10. Packages and the Go Tool
@@ -62,6 +61,12 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 - [ ] 12. Reflection
 - [ ] 13. Low-Level Programming
 #### Concurrency in Go
+- [x] 1. Intro to Concurrency
+- [x] 2. Sequential Processes
+- [ ] 3. Go's Concurrency Building Blocks
+- [ ] 4. Concurency Patterns in Go
+- [ ] 5. Concurrency ar Scale
+- [ ] 6. Goroutines and the Go Runtime
 #### Effective Go
 
 ### Online
