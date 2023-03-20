@@ -76,6 +76,7 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 - [ ] TECH SCHOOL Backend Master-Class (YouTube)
 - [ ] Ardan labs - Go Scheduler article
 - [ ] Ardans labs - GC article
+- [ ] [sourcegraph - conc](https://about.sourcegraph.com/blog/building-conc-better-structured-concurrency-for-go)
 
 ## DB
 ### Books
