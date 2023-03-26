@@ -74,8 +74,8 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 - [ ] Working with Microservices (udemy)
 - [ ] gRPC (udemy)
 - [ ] TECH SCHOOL Backend Master-Class (YouTube)
-- [ ] Ardan labs - Go Scheduler article
-- [ ] Ardans labs - GC article
+- [ ] [Ardan labs - Go Scheduler article](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
+- [ ] [Ardans labs - GC article](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
 - [ ] [sourcegraph - conc](https://about.sourcegraph.com/blog/building-conc-better-structured-concurrency-for-go)
 
 ## DB
