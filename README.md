@@ -70,10 +70,10 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 #### Effective Go
 
 ### Online
-- [ ] Web Dev with Google's Go (udemy, optional)
-- [ ] Working with Microservices (udemy)
-- [ ] gRPC (udemy)
-- [ ] TECH SCHOOL Backend Master-Class (YouTube)
+- [ ] [Web Dev with Google's Go (udemy, optional)](https://www.udemy.com/course/go-programming-language/)
+- [ ] [Working with Microservices udemy](https://www.udemy.com/course/working-with-microservices-in-go/)
+- [ ] [gRPC udemy](https://www.udemy.com/course/grpc-golang/)
+- [ ] [TECH SCHOOL Backend Master-Class](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/)
 - [ ] [Ardan labs - Go Scheduler article](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
 - [ ] [Ardans labs - GC article](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
 - [ ] [sourcegraph - conc](https://about.sourcegraph.com/blog/building-conc-better-structured-concurrency-for-go)
