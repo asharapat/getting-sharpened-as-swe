@@ -83,6 +83,7 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 - [ ] [PostgreSql Up & Running](https://www.amazon.com/PostgreSQL-Running-Practical-Advanced-Database/dp/1491963417)
 
 ### Online
+- [ ] [Database Engineering <3](https://www.udemy.com/course/database-engines-crash-course/)
 - [ ] [Sql & PostgreSql](https://www.udemy.com/course/sql-and-postgresql/)
 - [ ] [Youtube DB design](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=1s&ab_channel=freeCodeCamp.org)
 
