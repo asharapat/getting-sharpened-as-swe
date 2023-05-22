@@ -8,7 +8,7 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 #### Week #1 Basics of Go?
 - [x] Intro to Golang
 - [x] Interfaces & standard library
-- [ ] Create service
+- [x] Create service
 
 #### Week #2 Microservice communication + k8s
 - [ ] gRPC basics
