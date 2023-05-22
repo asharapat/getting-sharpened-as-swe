@@ -5,44 +5,45 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 
 ### Course from work
 
-#### Week #1 Why Go?
+#### Week #1 Basics of Go?
 - [x] Intro to Golang
-- [x] Interfaces in Golang
+- [x] Interfaces & standard library
+- [ ] Create service
 
-#### Week #2 Concurrent programming
-- [ ] Basics: concurrency & parallelism
-- [ ] Concurrency patterns in Go
-- [ ] Underwater stones
+#### Week #2 Microservice communication + k8s
+- [ ] gRPC basics
+- [ ] Intro to k8s
+- [ ] User gRPC in service
 
 #### Week #3 Databases
 - [ ] Theory
 - [ ] PostgreSql anatomy and libraries
 - [ ] PostgresSql in practice
 
-#### Week #4 System Design
-- [ ] Basic concepts
-- [ ] Distributes systems I
-- [ ] Distributes systems II
+#### Week #4 Concurrency
+- [ ] Concurrency & parallelism
+- [ ] Concurrency patterns in Go
+- [ ] Concurrency patterns in practice
 
-#### Week #5 Observability and SRE
-- [ ] Logs & Tracing
-- [ ] Metrics & Monitoring
-- [ ] Adding observability to application
+#### Week #5 Testing in Go
+- [ ] Intro to testing
+- [ ] Mocks, DI, etc
+- [ ] Testing of services
 
-#### Week #6 Persisting data in distributed systems
-- [ ] Replication & Partitioning
-- [ ] Caching
-- [ ] Implementation of Caching in Go
+#### Week #6 Kafka
+- [ ] Message brokers
+- [ ] Kafka basic patterns
+- [ ] Kafka in practice
 
-#### Week #7 Data exchange in highload
-- [ ] Message Brokers
-- [ ] gRPC in Go
-- [ ] gRPC & Kafka in practice
+#### Week #7 Observability & SRE
+- [ ] Logs & tracing
+- [ ] Metrics & monitoring
+- [ ] Observability in practice
 
-#### Week #8 Special themes
-- [ ] k8s 
-- [ ] Incidents
-- [ ] Creating service
+#### Week #8 Data storage in highload systems
+- [ ] System design
+- [ ] Caching, replication, partitioning
+- [ ] Go cache implementation
 
 
 ### Books
