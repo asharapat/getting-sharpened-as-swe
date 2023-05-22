@@ -13,7 +13,7 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 #### Week #2 Microservice communication + k8s
 - [ ] gRPC basics
 - [ ] Intro to k8s
-- [ ] User gRPC in service
+- [ ] Use gRPC in service
 
 #### Week #3 Databases
 - [ ] Theory
