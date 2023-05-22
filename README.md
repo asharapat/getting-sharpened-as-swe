@@ -70,7 +70,6 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 - [ ] 6. Goroutines and the Go Runtime
 
 ### Online
-- [ ] [Working with Microservices](https://www.udemy.com/course/working-with-microservices-in-go/)
 - [ ] [gRPC](https://www.udemy.com/course/grpc-golang/)
 - [ ] [Ardan labs - Go Scheduler article](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
 - [ ] [Ardans labs - GC article](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
