@@ -3,7 +3,7 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 
 ## Go
 
-### route256
+### main route
 
 #### Week #1 Basics of Go?
 - [x] Intro to Golang
