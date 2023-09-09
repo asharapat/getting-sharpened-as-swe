@@ -65,7 +65,7 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 - [x] 1. Intro to Concurrency
 - [x] 2. Sequential Processes
 - [x] 3. Go's Concurrency Building Blocks
-- [ ] 4. Concurency Patterns in Go
+- [x] 4. Concurency Patterns in Go
 - [ ] 5. Concurrency ar Scale
 - [ ] 6. Goroutines and the Go Runtime
 
