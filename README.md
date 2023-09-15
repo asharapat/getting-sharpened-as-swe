@@ -65,6 +65,7 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 ## DB
 ### Books
 - [ ] [PostgreSql Up & Running](https://www.amazon.com/PostgreSQL-Running-Practical-Advanced-Database/dp/1491963417)
+- [ ] [Designing Data Intensive Applications](https://dataintensive.net/)
 
 ### Online
 - [x] [Database Engineering <3](https://www.udemy.com/course/database-engines-crash-course/)
