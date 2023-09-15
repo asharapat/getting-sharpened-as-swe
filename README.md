@@ -5,45 +5,32 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 
 ### main route
 
-#### #1 Basics of Go?
-- [ ] Intro to Golang
-- [ ] Interfaces & standard library
-- [ ] Create service
-
-#### #2 Microservice communication + k8s
-- [ ] gRPC basics
-- [ ] Intro to k8s
-- [ ] Use gRPC in service
-
-#### #3 Databases
-- [ ] Theory
-- [ ] PostgreSql anatomy and libraries
-- [ ] PostgresSql in practice
-
-#### #4 Concurrency
-- [ ] Concurrency & parallelism
+#### #1 Concurrency
+- [ ] Concurrency building blocks
 - [ ] Concurrency patterns in Go
-- [ ] Concurrency patterns in practice
 
-#### #5 Testing in Go
-- [ ] Intro to testing
-- [ ] Mocks, DI, etc
-- [ ] Testing of services
+#### #2 Databases
+- [ ] Theory
+- [ ] PostgreSql
 
-#### #6 Kafka
+#### #3 Microservice communication
+- [ ] REST
+- [ ] gRPC
+
+#### #4 Testing in Go
+- [ ] Unit test for services
+
+#### #5 Kafka
 - [ ] Message brokers
-- [ ] Kafka basic patterns
 - [ ] Kafka in practice
 
-#### #7 Observability & SRE
-- [ ] Logs & tracing
+#### #6 Observability & SRE
 - [ ] Metrics & monitoring
 - [ ] Observability in practice
 
-#### #8 Data storage in highload systems
+#### #7 Data storage in highload systems
 - [ ] System design
 - [ ] Caching, replication, partitioning
-- [ ] Go cache implementation
 
 
 ### Books
