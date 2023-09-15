@@ -82,7 +82,7 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 - [ ] [Network Engineering](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/)
 - [ ] [Git & Github (optional)](https://www.udemy.com/course/git-and-github-bootcamp/)
 - [ ] [Docker & Kuber](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
-- [ ] [Kafka](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+- [ ] [Kafka](https://www.udemy.com/course/apache-kafka/)
 - [ ] [Gitlab](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
 
 
