@@ -73,7 +73,7 @@ inspired by https://github.com/nugmanoff/fullstack-mastery
 
 ## Other
 ### Books
-- [ ] [Building Microservices](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/)
+- [ ] [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/)
 - [ ] [Designing Data Intensive Applications](https://dataintensive.net/)
 
 
